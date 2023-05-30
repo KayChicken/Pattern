@@ -16,4 +16,4 @@
 
 # UML программы
 
-![image](https://github.com/KayChicken/Pattern/assets/105989236/0cf7f51e-2683-44c5-8a57-55cff8666303)
+![image](https://github.com/KayChicken/Pattern/assets/105989236/52dcd00a-9f9c-4451-8095-3a859fbe2801)
